@@ -11,4 +11,7 @@ Here's my project portfolio:
 - ProjectedGAN
 - StyleGAN-XL
 
+Let me show you an image:
 ![image](deer.png)
+
+Basically, this deer image has **three** channels.
