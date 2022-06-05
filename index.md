@@ -17,3 +17,5 @@ Let me show you an image:
 
 
 Basically, this deer image has **three** channels.
+
+This text is <em><strong>really important</strong></em>.
