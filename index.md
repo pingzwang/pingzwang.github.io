@@ -6,3 +6,7 @@ Here's what I need to do for today:
 1. Go shopping;
 2. Finishing homework;
 3. Take SAT.
+
+Here's my project portfolio:
+- ProjectedGAN
+- StyleGAN-XL
