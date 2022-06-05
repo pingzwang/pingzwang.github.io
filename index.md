@@ -10,3 +10,5 @@ Here's what I need to do for today:
 Here's my project portfolio:
 - ProjectedGAN
 - StyleGAN-XL
+
+![image](deer.png)
